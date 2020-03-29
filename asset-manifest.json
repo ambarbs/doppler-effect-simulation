@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.8917f35e.chunk.css",
-    "main.js": "/static/js/main.f3f3e4af.chunk.js",
-    "main.js.map": "/static/js/main.f3f3e4af.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.9c5eef44.js",
-    "runtime-main.js.map": "/static/js/runtime-main.9c5eef44.js.map",
-    "static/js/2.8da34373.chunk.js": "/static/js/2.8da34373.chunk.js",
-    "static/js/2.8da34373.chunk.js.map": "/static/js/2.8da34373.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.553b6432d188b51c324ad1697751cb58.js": "/precache-manifest.553b6432d188b51c324ad1697751cb58.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.8917f35e.chunk.css.map": "/static/css/main.8917f35e.chunk.css.map",
-    "static/js/2.8da34373.chunk.js.LICENSE.txt": "/static/js/2.8da34373.chunk.js.LICENSE.txt",
-    "static/media/night.jpg": "/static/media/night.184eb6ce.jpg",
-    "static/media/star-small.png": "/static/media/star-small.eba6df9e.png"
+    "main.css": "/doppler-effect-simulation/static/css/main.8917f35e.chunk.css",
+    "main.js": "/doppler-effect-simulation/static/js/main.b389e7f0.chunk.js",
+    "main.js.map": "/doppler-effect-simulation/static/js/main.b389e7f0.chunk.js.map",
+    "runtime-main.js": "/doppler-effect-simulation/static/js/runtime-main.8af2a0c5.js",
+    "runtime-main.js.map": "/doppler-effect-simulation/static/js/runtime-main.8af2a0c5.js.map",
+    "static/js/2.998660f5.chunk.js": "/doppler-effect-simulation/static/js/2.998660f5.chunk.js",
+    "static/js/2.998660f5.chunk.js.map": "/doppler-effect-simulation/static/js/2.998660f5.chunk.js.map",
+    "index.html": "/doppler-effect-simulation/index.html",
+    "precache-manifest.654f3e5b8d13b7563217fba1f8dc7c57.js": "/doppler-effect-simulation/precache-manifest.654f3e5b8d13b7563217fba1f8dc7c57.js",
+    "service-worker.js": "/doppler-effect-simulation/service-worker.js",
+    "static/css/main.8917f35e.chunk.css.map": "/doppler-effect-simulation/static/css/main.8917f35e.chunk.css.map",
+    "static/js/2.998660f5.chunk.js.LICENSE.txt": "/doppler-effect-simulation/static/js/2.998660f5.chunk.js.LICENSE.txt",
+    "static/media/night.jpg": "/doppler-effect-simulation/static/media/night.184eb6ce.jpg",
+    "static/media/star-small.png": "/doppler-effect-simulation/static/media/star-small.eba6df9e.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.9c5eef44.js",
-    "static/js/2.8da34373.chunk.js",
+    "static/js/runtime-main.8af2a0c5.js",
+    "static/js/2.998660f5.chunk.js",
     "static/css/main.8917f35e.chunk.css",
-    "static/js/main.f3f3e4af.chunk.js"
+    "static/js/main.b389e7f0.chunk.js"
   ]
 }
