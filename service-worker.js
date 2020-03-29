@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/doppler-effect-simulation/precache-manifest.654f3e5b8d13b7563217fba1f8dc7c57.js"
+  "/doppler-effect-simulation/precache-manifest.4e2f3fc7a31bdad84e3d8243c9fcf1ca.js"
 );
 
 self.addEventListener('message', (event) => {
