@@ -26,12 +26,12 @@ class App extends Component {
         return 0;
     }
 
-    static getSaturate(velocity) {
+    static getSaturate(velocity, sliderValue) {
         if (velocity >= 0 && velocity <= 100) {
-            return velocity * 2;
+            return sliderValue * 2;
             // return  10000 * velocity / 100;
         } else if (velocity < 0 && velocity >= -100) {
-            return velocity * -1;
+            return parseInt(sliderValue * -0.1);
             // return 15000 * Math.abs( velocity / 100);
         }
         return 0;
@@ -41,9 +41,13 @@ class App extends Component {
 
         const {velocity} = this.props;
 
+        let velocityValue = velocity;
+        if(velocity < 0){
+            velocityValue =  -1 * parseInt(Math.pow(-1 * velocity, 1.3), 10);
+        }
         const sepia = App.getSepia(velocity);
         const hueRotate = App.getHueRotate(velocity);
-        const saturate = App.getSaturate(velocity);
+        const saturate = App.getSaturate(velocity, velocityValue);
 
         return (
             <AppWrapper>
