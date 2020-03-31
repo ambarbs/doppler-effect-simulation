@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "48f54f9d1db42414930cdc8508da720f",
+    "revision": "7c3ff6b82eda9d72eb8becc311a3aa71",
     "url": "/doppler-effect-simulation/index.html"
   },
   {
-    "revision": "25bed3930115aee593b9",
+    "revision": "15fd4bd1b9cd149858b3",
     "url": "/doppler-effect-simulation/static/css/main.8917f35e.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/doppler-effect-simulation/static/js/2.b80ec02e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "25bed3930115aee593b9",
-    "url": "/doppler-effect-simulation/static/js/main.98a3137a.chunk.js"
+    "revision": "15fd4bd1b9cd149858b3",
+    "url": "/doppler-effect-simulation/static/js/main.878ea20e.chunk.js"
   },
   {
     "revision": "dd433b83679f713d030b",

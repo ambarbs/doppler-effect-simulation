@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/doppler-effect-simulation/static/css/main.8917f35e.chunk.css",
-    "main.js": "/doppler-effect-simulation/static/js/main.98a3137a.chunk.js",
-    "main.js.map": "/doppler-effect-simulation/static/js/main.98a3137a.chunk.js.map",
+    "main.js": "/doppler-effect-simulation/static/js/main.878ea20e.chunk.js",
+    "main.js.map": "/doppler-effect-simulation/static/js/main.878ea20e.chunk.js.map",
     "runtime-main.js": "/doppler-effect-simulation/static/js/runtime-main.8af2a0c5.js",
     "runtime-main.js.map": "/doppler-effect-simulation/static/js/runtime-main.8af2a0c5.js.map",
     "static/js/2.b80ec02e.chunk.js": "/doppler-effect-simulation/static/js/2.b80ec02e.chunk.js",
     "static/js/2.b80ec02e.chunk.js.map": "/doppler-effect-simulation/static/js/2.b80ec02e.chunk.js.map",
     "index.html": "/doppler-effect-simulation/index.html",
-    "precache-manifest.062408648d37d028bb3d16b53ccf7a77.js": "/doppler-effect-simulation/precache-manifest.062408648d37d028bb3d16b53ccf7a77.js",
+    "precache-manifest.0559340f7438b87e815aaf779f3e3a22.js": "/doppler-effect-simulation/precache-manifest.0559340f7438b87e815aaf779f3e3a22.js",
     "service-worker.js": "/doppler-effect-simulation/service-worker.js",
     "static/css/main.8917f35e.chunk.css.map": "/doppler-effect-simulation/static/css/main.8917f35e.chunk.css.map",
     "static/js/2.b80ec02e.chunk.js.LICENSE.txt": "/doppler-effect-simulation/static/js/2.b80ec02e.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.8af2a0c5.js",
     "static/js/2.b80ec02e.chunk.js",
     "static/css/main.8917f35e.chunk.css",
-    "static/js/main.98a3137a.chunk.js"
+    "static/js/main.878ea20e.chunk.js"
   ]
 }
