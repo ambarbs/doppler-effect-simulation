@@ -13,7 +13,7 @@ export default class Velocity extends Component {
         }
 
         // Delay action 2 seconds
-        this.validateAndSetVelocity = _.debounce(this.validateAndSetVelocity, 200)
+        this.validateAndSetVelocity = _.debounce(this.validateAndSetVelocity, 50)
         this.validateAndSetVelocity = this.validateAndSetVelocity.bind(this);
     }
 
